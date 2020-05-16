@@ -1,0 +1,65 @@
+﻿  Source.cpp
+C:\Users\Alexander\Desktop\Новая папка\Source.cpp(106,41): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Alexander\Desktop\Новая папка\Source.cpp(106,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Alexander\Desktop\Новая папка\Source.cpp(119,96): warning C4244: аргумент: преобразование "const T" в "unsigned int", возможна потеря данных
+C:\Users\Alexander\Desktop\Новая папка\Source.cpp(119,96): warning C4244:         with
+C:\Users\Alexander\Desktop\Новая папка\Source.cpp(119,96): warning C4244:         [
+C:\Users\Alexander\Desktop\Новая папка\Source.cpp(119,96): warning C4244:             T=float
+C:\Users\Alexander\Desktop\Новая папка\Source.cpp(119,96): warning C4244:         ]
+C:\Users\Alexander\Desktop\Новая папка\Source.cpp(119,72): warning C4244: аргумент: преобразование "const T" в "unsigned int", возможна потеря данных
+C:\Users\Alexander\Desktop\Новая папка\Source.cpp(119,72): warning C4244:         with
+C:\Users\Alexander\Desktop\Новая папка\Source.cpp(119,72): warning C4244:         [
+C:\Users\Alexander\Desktop\Новая папка\Source.cpp(119,72): warning C4244:             T=float
+C:\Users\Alexander\Desktop\Новая папка\Source.cpp(119,72): warning C4244:         ]
+C:\Users\Alexander\Desktop\Новая папка\Source.cpp(166,43): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Alexander\Desktop\Новая папка\Source.cpp(166,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Alexander\Desktop\Новая папка\Source.cpp(344,41): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Alexander\Desktop\Новая папка\Source.cpp(344,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Alexander\Desktop\Новая папка\Source.cpp(353,29): warning C4244: =: преобразование "const T" в "int", возможна потеря данных
+C:\Users\Alexander\Desktop\Новая папка\Source.cpp(353,29): warning C4244:         with
+C:\Users\Alexander\Desktop\Новая папка\Source.cpp(353,29): warning C4244:         [
+C:\Users\Alexander\Desktop\Новая папка\Source.cpp(353,29): warning C4244:             T=float
+C:\Users\Alexander\Desktop\Новая папка\Source.cpp(353,29): warning C4244:         ]
+C:\Users\Alexander\Desktop\Новая папка\Source.cpp(354,29): warning C4244: =: преобразование "const T" в "int", возможна потеря данных
+C:\Users\Alexander\Desktop\Новая папка\Source.cpp(354,29): warning C4244:         with
+C:\Users\Alexander\Desktop\Новая папка\Source.cpp(354,29): warning C4244:         [
+C:\Users\Alexander\Desktop\Новая папка\Source.cpp(354,29): warning C4244:             T=float
+C:\Users\Alexander\Desktop\Новая папка\Source.cpp(354,29): warning C4244:         ]
+C:\Users\Alexander\Desktop\Новая папка\Source.cpp(361,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Alexander\Desktop\Новая папка\Source.cpp(361,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Alexander\Desktop\Новая папка\Source.cpp(365,30): warning C4244: =: преобразование "const T" в "int", возможна потеря данных
+C:\Users\Alexander\Desktop\Новая папка\Source.cpp(365,30): warning C4244:         with
+C:\Users\Alexander\Desktop\Новая папка\Source.cpp(365,30): warning C4244:         [
+C:\Users\Alexander\Desktop\Новая папка\Source.cpp(365,30): warning C4244:             T=float
+C:\Users\Alexander\Desktop\Новая папка\Source.cpp(365,30): warning C4244:         ]
+C:\Users\Alexander\Desktop\Новая папка\Source.cpp(366,30): warning C4244: =: преобразование "const T" в "int", возможна потеря данных
+C:\Users\Alexander\Desktop\Новая папка\Source.cpp(366,30): warning C4244:         with
+C:\Users\Alexander\Desktop\Новая папка\Source.cpp(366,30): warning C4244:         [
+C:\Users\Alexander\Desktop\Новая папка\Source.cpp(366,30): warning C4244:             T=float
+C:\Users\Alexander\Desktop\Новая папка\Source.cpp(366,30): warning C4244:         ]
+C:\Users\Alexander\Desktop\Новая папка\Source.cpp(373,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Alexander\Desktop\Новая папка\Source.cpp(373,24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Alexander\Desktop\Новая папка\Source.cpp(384,97): warning C4244: аргумент: преобразование "const T" в "unsigned int", возможна потеря данных
+C:\Users\Alexander\Desktop\Новая папка\Source.cpp(384,97): warning C4244:         with
+C:\Users\Alexander\Desktop\Новая папка\Source.cpp(384,97): warning C4244:         [
+C:\Users\Alexander\Desktop\Новая папка\Source.cpp(384,97): warning C4244:             T=float
+C:\Users\Alexander\Desktop\Новая папка\Source.cpp(384,97): warning C4244:         ]
+C:\Users\Alexander\Desktop\Новая папка\Source.cpp(384,73): warning C4244: аргумент: преобразование "const T" в "unsigned int", возможна потеря данных
+C:\Users\Alexander\Desktop\Новая папка\Source.cpp(384,73): warning C4244:         with
+C:\Users\Alexander\Desktop\Новая папка\Source.cpp(384,73): warning C4244:         [
+C:\Users\Alexander\Desktop\Новая папка\Source.cpp(384,73): warning C4244:             T=float
+C:\Users\Alexander\Desktop\Новая папка\Source.cpp(384,73): warning C4244:         ]
+C:\Users\Alexander\Desktop\Новая папка\Source.cpp(414,99): warning C4244: аргумент: преобразование "const T" в "unsigned int", возможна потеря данных
+C:\Users\Alexander\Desktop\Новая папка\Source.cpp(414,99): warning C4244:         with
+C:\Users\Alexander\Desktop\Новая папка\Source.cpp(414,99): warning C4244:         [
+C:\Users\Alexander\Desktop\Новая папка\Source.cpp(414,99): warning C4244:             T=float
+C:\Users\Alexander\Desktop\Новая папка\Source.cpp(414,99): warning C4244:         ]
+C:\Users\Alexander\Desktop\Новая папка\Source.cpp(414,74): warning C4244: аргумент: преобразование "const T" в "unsigned int", возможна потеря данных
+C:\Users\Alexander\Desktop\Новая папка\Source.cpp(414,74): warning C4244:         with
+C:\Users\Alexander\Desktop\Новая папка\Source.cpp(414,74): warning C4244:         [
+C:\Users\Alexander\Desktop\Новая папка\Source.cpp(414,74): warning C4244:             T=float
+C:\Users\Alexander\Desktop\Новая папка\Source.cpp(414,74): warning C4244:         ]
+C:\Users\Alexander\Desktop\Новая папка\Source.cpp(470,43): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Alexander\Desktop\Новая папка\Source.cpp(470,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Alexander\Desktop\Новая папка\Source.cpp(578,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  SFMLProject.vcxproj -> C:\Users\Alexander\Desktop\Новая папка\x64\Debug\SFMLProject.exe
